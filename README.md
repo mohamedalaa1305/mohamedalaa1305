@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 <h3 align="center">A passionate software engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedalaa1305" alt="mohamedalaa1305" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
