@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalaa1305&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalaa1305" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedalaa1305" alt="mohamedalaa1305" /></a> </p>
-
 - 🔭 I’m currently working on **.Net Core Web Apps**
 
 <h3 align="left">Connect with me:</h3>
