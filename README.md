@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer</h3>
 
 - I’m graduated from faculty of computer and information science, Ain Shams university.
-- Currently working on .Net Core Web Apps
+- Currently working on .Net Core Web Apps.
 - Looking for a job as a backend engineer.
  
 <h3 align="left">Connect with me:</h3>
